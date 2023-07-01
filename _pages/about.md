@@ -10,7 +10,7 @@ redirect_from:
 
 I am Bolin Zhang from Zhejiang University and University of Illinois at Urbana-Champaign, majoring Electrical Engineering, expected to receive degree of Bachelor of Science in March, 2024. My research interests lies in blockchain and distributed consensus. Currently I am working closely with Professor [Ren Ling](https://cs.illinois.edu/about/people/faculty/renling) and postdoc [Xiaohai Dai](https://scholar.google.com/citations?user=FU4tiesAAAAJ&hl=en&oi=ao) on improving byzantine-tolerant asynchronous consensus protocols.
 
-You can view my [publications](https://tumblingzhang.github.io/publications/), [official transcript](http://TumblingZhang.github.io/files/Transcript.pdf), and [most recent CV](http://TumblingZhang.github.io/files/CV.pdf) on this website.
+You can view my [publications](https://tumblingzhang.github.io/pubs/), [official transcript](http://TumblingZhang.github.io/files/Transcript.pdf), and [most recent CV](http://TumblingZhang.github.io/files/CV.pdf) on this website.
 
 
 
