@@ -10,7 +10,7 @@ redirect_from:
 
 I am Bolin Zhang from Zhejiang University and University of Illinois at Urbana-Champaign, majoring Electrical Engineering, expected to receive degree of Bachelor of Science in March, 2024. My research interests lies in blockchain and distributed consensus.
 
-You can find my publications and most recent CV on this website.
+You can view my [official transcript](), publications and [most recent CV]() on this website.
 
 A data-driven personal website
 ======
