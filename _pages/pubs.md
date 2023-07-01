@@ -8,6 +8,10 @@ redirect_from:
 
 ## ParBFT: Faster Asynchronous BFT Consensus with a Parallel Optimistic Path
 * Submitted to CCS 2023
+* Authors: Xiaohai Dai, Huazhong University of Science and Technology, University of Illinois Urbana-Champaign
+Bolin Zhang, Zhejiang University, University of Illinois Urbana-Champaign
+Hai Jin, Huazhong University of Science and Technology
+Ling Ren, University of Illinois Urbana-Champaign
 * Available on [archive](https://eprint.iacr.org/2023/679)
 ### Abstract
 To reduce latency and communication overhead of asynchronous Byzantine Fault Tolerance (BFT) consensus, an optimistic path is often added, with Ditto and BDT as state-of-the-art representatives. These protocols first attempt to run an optimistic path that is typically adapted from partially-synchronous BFT and promises good performance in good situations.  If the optimistic path fails to make progress, these protocols switch to a pessimistic path after a timeout, to guarantee liveness in an asynchronous network. This design crucially relies on an accurate estimation of the network delay Δ to set the timeout parameter correctly. A wrong estimation of Δ can lead to either premature or delayed switching to the pessimistic path, hurting the protocol's efficiency in both cases.
