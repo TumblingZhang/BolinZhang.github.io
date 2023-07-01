@@ -85,7 +85,7 @@ author:
   bio              : "I am Bolin Zhang from Zhejiang University and University of Illinois at Urbana-Champaign, majoring Electrical Engineering, expected to receive degree of Bachelor of Science in March, 2024. My research interests lies in blockchain and distributed consensus."
   location         : "Illinois, United States"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
