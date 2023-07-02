@@ -12,9 +12,10 @@ I am Bolin Zhang from Zhejiang University and University of Illinois at Urbana-C
 
 You can view my [publications](https://tumblingzhang.github.io/pubs/), [official transcript](http://TumblingZhang.github.io/files/Transcript.pdf), and [most recent CV](http://TumblingZhang.github.io/files/CV.pdf) on this website.
 
--A News
+-News
 -======
 -The paper ParBFT: Faster Asynchronous BFT Consensus with a Parallel Optimistic Path submmited to CCS 2023 has entered rebuttal stage.
+-
 
 
 
