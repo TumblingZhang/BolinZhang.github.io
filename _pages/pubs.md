@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ## ParBFT: Faster Asynchronous BFT Consensus with a Parallel Optimistic Path
-* Submitted to CCS 2023
+* Accepted by CCS 2023
 * Authors: Xiaohai Dai, Bolin Zhang, Hai Jin, Ling Ren
 * Available on [Crypto Archive](https://eprint.iacr.org/2023/679)
 ### Abstract
