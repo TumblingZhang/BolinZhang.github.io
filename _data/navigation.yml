@@ -20,3 +20,5 @@ main:
     
   - title: "Publications"
     url: /pubs/
+  - title: "About"
+    url: /about/
