@@ -1,9 +1,10 @@
 ---
-permalink: /pubs/
+permalink: /
 title: "Publications"
 author_profile: true
 redirect_from: 
   - /pubs.html
+  - /pubs/
 ---
 
 ## ParBFT: Faster Asynchronous BFT Consensus with a Parallel Optimistic Path
