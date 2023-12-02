@@ -15,7 +15,7 @@ Links: \[[CV](http://TumblingZhang.github.io/files/Bolin Zhang CV 20231123.pdf)\
 
 Conference Publications
 ======
-* Xiaohai Dai, **Bolin Zhang**, Hai Jin, and Ling Ren. 2023. ParBFT: Faster Asynchronous BFT Consensus with a Parallel Optimistic Path. In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS ’23), November 26–30, 2023, Copenhagen, Denmark. ACM, New York, NY, USA, 15 pages. https://doi.org/10.1145/3576915.3623101
+* Xiaohai Dai, **Bolin Zhang**, Hai Jin, and Ling Ren. 2023. ParBFT: Faster Asynchronous BFT Consensus with a Parallel Optimistic Path. In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS ’23), November 26–30, 2023, Copenhagen, Denmark. ACM, New York, NY, USA, 15 pages. [Paper](https://doi.org/10.1145/3576915.3623101)
 
 Honors and Awards
 ======
