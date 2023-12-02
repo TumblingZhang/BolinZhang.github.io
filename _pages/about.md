@@ -9,7 +9,7 @@ I am Bolin Zhang from Zhejiang University and University of Illinois at Urbana-C
 
 My research interests mainly lies in privacy and security of distributed systems. Currently I am working on improving byzantine-tolerant asynchronous consensus protocols closely with Professor [Ren Ling](https://cs.illinois.edu/about/people/faculty/renling) and postdoc [Xiaohai Dai](https://scholar.google.com/citations?user=FU4tiesAAAAJ&hl=en&oi=ao).
 
-Email: bolinz3@illinois.edu / bolin.20@intl.zju.edu.cn
+Email: \[bolinz3@illinois.edu\], \[bolin.20@intl.zju.edu.cn\]
 
 Links: \[[CV](http://TumblingZhang.github.io/files/Bolin Zhang CV 20231123.pdf)\], \[[Publications](https://tumblingzhang.github.io/pubs/)\],\[[UIUC Transcript](http://TumblingZhang.github.io/files/Transcript.pdf)\], \[[ZJU Transcript](http://TumblingZhang.github.io/files/Bolin Zhang-ZJU Transcript & Ranking.pdf)\]
 
