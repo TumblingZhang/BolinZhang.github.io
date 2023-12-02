@@ -13,7 +13,7 @@ You can view my [publications](https://tumblingzhang.github.io/pubs/), [official
 
 Email: bolinz3@illinois.edu / bolin.20@intl.zju.edu.cn
 
-Links: [CV](http://TumblingZhang.github.io/files/Bolin Zhang CV 20231123.pdf), \[[publications](https://tumblingzhang.github.io/pubs/)\],[official UIUC transcript](http://TumblingZhang.github.io/files/Transcript.pdf), official ZJU transcript(http://TumblingZhang.github.io/files/Bolin Zhang-ZJU Transcript & Ranking.pdf)
+Links: \[[CV](http://TumblingZhang.github.io/files/Bolin Zhang CV 20231123.pdf)\], \[[Publications](https://tumblingzhang.github.io/pubs/)\],\[[UIUC Transcript](http://TumblingZhang.github.io/files/Transcript.pdf)\], \[ZJU Transcript(http://TumblingZhang.github.io/files/Bolin Zhang-ZJU Transcript & Ranking.pdf)\]
 
 -News
 -======
