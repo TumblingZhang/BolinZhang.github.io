@@ -11,7 +11,7 @@ My research interests mainly lies in privacy and security of distributed systems
 
 Email: bolinz3@illinois.edu
 
-Links: \[[CV](http://TumblingZhang.github.io/files/Bolin Zhang CV 20231123.pdf)\], \[[Publications](https://tumblingzhang.github.io/pubs/)\],\[[UIUC Transcript](http://TumblingZhang.github.io/files/Transcript.pdf)\], \[[ZJU Transcript](http://TumblingZhang.github.io/files/Bolin Zhang-ZJU Transcript & Ranking.pdf)\]
+Links: \[[CV](http://TumblingZhang.github.io/files/CV_Bolin_Zhang.pdf)\], \[[Publications](https://tumblingzhang.github.io/pubs/)\],\[[UIUC Transcript](http://TumblingZhang.github.io/files/Transcript.pdf)\], \[[ZJU Transcript](http://TumblingZhang.github.io/files/Bolin Zhang-ZJU Transcript & Ranking.pdf)\]
 
 Conference Publications
 ======
